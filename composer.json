@@ -1,0 +1,15 @@
+{
+  "name": "huaji-team/xpyun",
+  "authors": [
+    {
+      "name": "huaji group",
+      "email": "lz-850610@163.com"
+    }
+  ],
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Xpyun\\": "./src"
+    }
+  }
+}
